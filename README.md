@@ -12,7 +12,7 @@ Run `cargo run` to launch a REPL
 
 ## Contributing
 
-This is only for educational purposes so I probably won't accept your pull request, but feel free to expand on this!
+This is only for educational purposes so I probably won't accept your pull request, but feel free to fork the repo expand on this yourself!
 
 ## License
 
